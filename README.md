@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ijaz
 - 👀 I’m interested in outdoor games specially football.
-- 🌱 I’m currently learning cypress.io and its fun. 
+- 🌱 I’m currently learning and implementing Testing Framework and libraries like cypress.io,React Native Testing Library and its fun. 
 - 💞️ I’m looking forward to collaborate on Testautomation projects 
 - 📫 you can reach me via twitter - @sportjazz
 
